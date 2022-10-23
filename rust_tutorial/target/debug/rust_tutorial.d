@@ -1,0 +1,1 @@
+/Users/adityajayanti/Desktop/Github_ijl2c/practice_repos/rust_practice/rust_tutorial/target/debug/rust_tutorial: /Users/adityajayanti/Desktop/Github_ijl2c/practice_repos/rust_practice/rust_tutorial/src/main.rs
